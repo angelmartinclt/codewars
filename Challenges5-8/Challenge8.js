@@ -18,3 +18,5 @@ function feast(beast , dish){
 console.log(feast("brown bear", "bear claw"));
 
 console.log(feast("chickadee", "chocolate cake"));
+
+// This was found in "advanced". It was difficult because I was not returning firstBeast, firstDish, lastBeast and lastDish all on the same line, I was returning them seperately which would not work because they need to all be compared. 

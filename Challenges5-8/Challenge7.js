@@ -10,3 +10,5 @@ function simpleMultiplication (number){
 console.log(simpleMultiplication(2));
 console.log(simpleMultiplication(9));
 console.log(simpleMultiplication(5));
+
+//This challenge was found in "intermediate", using this operator typically trips me up and this time was no different, originally I put number % 4 instead of 2 

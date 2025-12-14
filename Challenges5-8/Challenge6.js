@@ -8,3 +8,5 @@ function sumMix(x){
     } return sum;
 }
 console.log(sumMix([9, 3, "7", "3"]));
+
+// this was found in "intermediate" level. On codewars I was making the sum variable outside of the function which is why it took me so long, I also did not call the index which is where I messed up

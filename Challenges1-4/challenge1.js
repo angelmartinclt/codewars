@@ -12,3 +12,5 @@ function smash (words){
     return words.join(" ");
 };
 console.log(smash(words));
+
+//to find my limits this challenge was selexcted from "novice", I felt confident in this problem as it was very basic

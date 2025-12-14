@@ -8,3 +8,5 @@ function booleanToString(b){
 }
 console.log (booleanToString(true));
 console.log (booleanToString(false));
+
+//This problem was found in "novice" and was good because I utilized an if else statement which is beginner level

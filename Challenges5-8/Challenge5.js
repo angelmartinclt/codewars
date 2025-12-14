@@ -8,3 +8,5 @@ function paperwork(n, m){
 console.log(paperwork(9, 4));
 console.log(paperwork(5, 5));
 console.log(paperwork(-5, 0));
+
+//This challenge was found in "intermediate" level, this was easier due to just going in the order of the instructions (psuedocoding)

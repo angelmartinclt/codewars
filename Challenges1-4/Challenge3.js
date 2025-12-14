@@ -25,3 +25,5 @@ function sumArray(array){
     return sum - min - max 
 }
 console.log(sumArray(array));
+
+//This problem was found in "beginner", it did take me longer than the novice challenges due to needing a more complex solution but eventually solved it after making 2 if statements

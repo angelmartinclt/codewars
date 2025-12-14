@@ -12,3 +12,5 @@ function digitize(n){
 console.log(digitize(35231));
 console.log(digitize(0));
 console.log(digitize(1738));
+
+// This challenge was found in "beginner" to test how long it took and it did take me around 7 minutes to solve. I felt confident but did have syntax issues which is why it took so long
