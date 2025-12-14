@@ -1,1 +1,1 @@
-As a viewer you will need node.js to see the outputs of each challenge! Within your terminal in VScode type "node challlenge1.js" and you will see challenge one's output, "node challlenge2.js" for challenge two, etc.  
+As a viewer you will need a node.js extension to see the outputs of each challenge! Within your terminal in VScode type "node challlenge1.js" and you will see challenge one's output, "node challlenge2.js" for challenge two, etc.  
